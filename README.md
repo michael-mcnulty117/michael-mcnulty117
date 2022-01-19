@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @michael-mcnulty117
+- 👀 I’m interested in coding and development, iOS application development, science fiction and fantasy books, Football and Baseball (Go Chiefs, Huskers, and Chicago Cubs!), and video games.
+- 🌱 I’m currently learning Swift and XCode development, as well as practicing more SQL and MySQL integrations with Python and Java.
+- 💞️ I’m looking to collaborate on some future projects, just not sure what exactly I would want to collaborate on at this time, but it seems like it would be a lot of fun collaborating with a team on a software project and I'm excited to do this soon!
+- 📫 How to reach me - You can reach me at 08polite-shout@icloud.com, I'm always in my emails so I'm very responsive.
